@@ -1,0 +1,56 @@
+Compsci 314 A3
+Name: Kyomin Ku
+UPI: kku031
+AUID: 5521999
+
+1. Requests Per Day: 11253.89
+
+2. Total Bytes Transferred(in MB): 12341.47
+
+3. Average Bytes Per day(in MB): 57.67
+
+4. Various Responses Breakdown (%) : 
+Found :- 1.69
+Not Modified :- 6.30
+Successful :- 91.08
+Unsuccessful :- 0.94
+
+Host Wise Distribution of Requests and Bytes Transferred :
+5. Number of Requests (%):
+local :- 22.69
+remote :- 77.31
+
+6. Bytes Transferred (%): 
+local :- 24.84
+remote :- 75.16
+
+File Category Wise Distribution :
+7. Number of Request Distribution (%):
+Sound :- 0.10
+Formatted :- 0.19
+Others :- 0.96
+Images :- 33.31
+HTML :- 55.24
+Dynamic :- 6.19
+Video :- 0.00
+
+8. Bytes Transferred Distribution (%):
+Sound :- 1.49
+Formatted :- 0.78
+Others :- 3.38
+Images :- 36.54
+HTML :- 49.26
+Dynamic :- 4.22
+Video :- 2.62
+
+9. Mean Average Size for Different Categories:
+Sound :- 84220.04
+Formatted :- 22345.75
+Others :- 18271.88
+Images :- 5895.40
+HTML :- 5369.31
+Dynamic :- 3970.69
+Video :- 3527756.19
+
+10. Unique Files accessed once (%): 42.13
+Unique Bytes accessed once (%): 42.67
